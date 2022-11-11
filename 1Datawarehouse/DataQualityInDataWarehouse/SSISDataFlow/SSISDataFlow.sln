@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "SSISDataFlow", "SSISDataFlow\SSISDataFlow.dtproj", "{380413EB-C45E-48A6-B8B0-D92FDCB5AF28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{380413EB-C45E-48A6-B8B0-D92FDCB5AF28}.Development|Default.ActiveCfg = Development
+		{380413EB-C45E-48A6-B8B0-D92FDCB5AF28}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D116B54-865D-4E5C-83EE-8771F4A8766C}
+	EndGlobalSection
+EndGlobal

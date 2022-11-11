@@ -1,0 +1,2 @@
+DROP DATABASE YourDB;
+go

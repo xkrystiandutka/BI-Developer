@@ -1,0 +1,9 @@
+ALTER DATABASE SSISDB
+SET SINGLE_USER
+WITH ROLLBACK IMMEDIATE;
+
+USE SSISDB
+EXEC catalog.configure_catalog @property_name = 'Encryption_Algorithm', @property_value = 'TRIPLE_DES_3KEY';
+
+ALTER DATABASE SSISDB
+SET MULTI_USER;

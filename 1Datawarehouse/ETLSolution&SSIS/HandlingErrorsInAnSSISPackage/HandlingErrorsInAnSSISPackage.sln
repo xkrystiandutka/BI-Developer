@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "HandlingErrorsInAnSSISPackage", "HandlingErrorsInAnSSISPackage\HandlingErrorsInAnSSISPackage.dtproj", "{C9A0CC2B-7329-45BC-B8A3-1B5EBACFA8F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9A0CC2B-7329-45BC-B8A3-1B5EBACFA8F2}.Development|Default.ActiveCfg = Development
+		{C9A0CC2B-7329-45BC-B8A3-1B5EBACFA8F2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D5496C8-ED85-4288-97AE-16338A90B6A0}
+	EndGlobalSection
+EndGlobal

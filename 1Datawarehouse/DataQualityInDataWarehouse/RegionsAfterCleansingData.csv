@@ -1,0 +1,375 @@
+﻿RegionKeys_Output,City_Output,StateProvinceCode_Source,StateProvinceCode_Output,StateProvinceCode_Reason,StateProvinceCode_Confidence,StateProvinceCode_Status,StateProvinceName_Source,StateProvinceName_Output,StateProvinceName_Reason,StateProvinceName_Confidence,StateProvinceName_Status,CountryRegionCode_Source,CountryRegionCode_Output,CountryRegionCode_Reason,CountryRegionCode_Confidence,CountryRegionCode_Status,PostalCode_Output,Record_Status
+280,Birmingham,AL,AL,Domain value,,Correct,Alabama,Alabama,Domain value,,Correct,US,US,Domain value,,Correct,135203,Correct
+281,Florence,AL,AL,Domain value,,Correct,Alabama,Alabama,Domain value,,Correct,US,US,Domain value,,Correct,35630,Correct
+282,Huntsville,AL,AL,Domain value,,Correct,Alabama,Alabama,Domain value,,Correct,US,US,Domain value,,Correct,35801,Correct
+283,Mobile,AL,AL,Domain value,,Correct,Alabama,Alabama,Domain value,,Correct,US,US,Domain value,,Correct,36602,Correct
+284,Montgomery,AL,AL,Domain value,,Correct,Alabama,Alabama,Domain value,,Correct,US,US,Domain value,,Correct,36104,Correct
+285,Chandler,AZ,AZ,Domain value,,Correct,Arizona,Arizona,Domain value,,Correct,US,US,Domain value,,Correct,85225,Correct
+286,Gilbert,AZ,AZ,Domain value,,Correct,Arizona,Arizona,Domain value,,Correct,US,US,Domain value,,Correct,85233,Correct
+287,Mesa,AZ,AZ,Domain value,,Correct,Arizona,Arizona,Domain value,,Correct,US,US,Domain value,,Correct,85201,Correct
+288,Phoenix,AZ,AZ,Domain value,,Correct,Arizona,Arizona,Domain value,,Correct,US,US,Domain value,,Correct,85004,Correct
+289,Scottsdale,AZ,AZ,Domain value,,Correct,Arizona,Arizona,Domain value,,Correct,US,US,Domain value,,Correct,85257,Correct
+290,Surprise,AZ,AZ,Domain value,,Correct,Arizona,Arizona,Domain value,,Correct,US,US,Domain value,,Correct,85374,Correct
+291,Tucson,AZ,AZ,Domain value,,Correct,Arizona,Arizona,Domain value,,Correct,US,US,Domain value,,Correct,85701,Correct
+292,Alhambra,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91801,Correct
+293,Alpine,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91901,Correct
+294,Auburn,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,95603,Correct
+295,Baldwin Park,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91706,Correct
+296,Barstow,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,92311,Correct
+297,Bell Gardens,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,90201,Correct
+298,Bellflower,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,90706,Correct
+299,Berkeley,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,94704,Correct
+300,Beverly Hills,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,90210,Correct
+301,Burbank,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91502,Correct
+302,Burlingame,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,94010,Correct
+303,Camarillo,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,93010,Correct
+304,Canoga Park,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91303,Correct
+305,Carson,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,90746,Correct
+306,Cerritos,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,90703,Correct
+307,Chula Vista,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91910,Correct
+308,Citrus Heights,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,95610,Correct
+309,City Of Commerce,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,90040,Correct
+310,Colma,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,94014,Correct
+311,Concord,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,94519,Correct
+312,Coronado,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,92118,Correct
+313,Culver City,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,90232,Correct
+314,Daly City,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,94015,Correct
+315,Downey,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,90241,Correct
+316,El Cajon,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,92020,Correct
+317,El Segundo,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,90245,Correct
+318,Elk Grove,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,95624,Correct
+319,Escondido,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,92025,Correct
+320,Eureka,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,95501,Correct
+321,Fontana,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,92335,Correct
+322,Fremont,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,94536,Correct
+323,Fullerton,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,92831,Correct
+324,Gilroy,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,95020,Correct
+325,Glendale,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91203,Correct
+326,Grossmont,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91941,Correct
+327,Hanford,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,93230,Correct
+328,Hayward,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,94541,Correct
+329,Imperial Beach,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91932,Correct
+330,Irvine,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,92614,Correct
+331,La Jolla,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,92806,Correct
+332,La Mesa,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91941,Correct
+333,Lake Elsinore,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,92530,Correct
+334,Lakewood,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,90712,Correct
+335,Lemon Grove,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91945,Correct
+336,Lincoln Acres,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91950,Correct
+337,Long Beach,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,90802,Correct
+338,Los Angeles,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,90012,Correct
+339,Mill Valley,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,94941,Correct
+340,Milpitas,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,95035,Correct
+341,Modesto,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,95354,Correct
+342,Monrovia,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91016,Correct
+343,National City,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91950,Correct
+344,Newark,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,94560,Correct
+345,Newport Beach,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,92625,Correct
+346,Norwalk,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,90650,Correct
+347,Novato,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,94947,Correct
+348,Oakland,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,94611,Correct
+349,Ontario,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91764,Correct
+350,Orange,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,92867,Correct
+351,Oxnard,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,93030,Correct
+352,Palo Alto,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,94303,Correct
+353,Pleasanton,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,94566,Correct
+354,Redlands,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,92373,Correct
+355,Redwood City,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,94063,Correct
+356,Sacramento,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,95814,Correct
+357,San Bruno,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,94066,Correct
+358,San Carlos,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,94070,Correct
+359,San Diego,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,92102,Correct
+360,San Francisco,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,94109,Correct
+361,San Gabriel,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91776,Correct
+362,San Jose,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,95112,Correct
+363,San Mateo,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,94404,Correct
+364,San Ramon,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,94583,Correct
+365,San Ysidro,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,92173,Correct
+366,Sand City,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,93955,Correct
+367,Santa Ana,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,92701,Correct
+368,Santa Cruz,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,95062,Correct
+369,Santa Monica,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,90401,Correct
+370,Sherman Oaks,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91403,Correct
+371,Simi Valley,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,93065,Correct
+372,Spring Valley,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91977,Correct
+373,Stockton,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,95202,Correct
+374,Torrance,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,90505,Correct
+375,Trabuco Canyon,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,92679,Correct
+376,Union City,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,94587,Correct
+377,Upland,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91786,Correct
+378,Vacaville,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,95688,Correct
+379,Van Nuys,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91411,Correct
+380,Visalia,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,93291,Correct
+381,Vista,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,92084,Correct
+382,Walnut Creek,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,94596,Correct
+383,West Covina,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91791,Correct
+384,Whittier,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,90605,Correct
+385,Woodland Hills,CA,CA,Domain value,,Correct,California,California,Domain value,,Correct,US,US,Domain value,,Correct,91364,Correct
+386,Denver,CO,CO,Domain value,,Correct,Colorado,Colorado,Domain value,,Correct,US,US,Domain value,,Correct,80203,Correct
+387,Englewood,CO,CO,Domain value,,Correct,Colorado,Colorado,Domain value,,Correct,US,US,Domain value,,Correct,80110,Correct
+388,Greeley,CO,CO,Domain value,,Correct,Colorado,Colorado,Domain value,,Correct,US,US,Domain value,,Correct,80631,Correct
+389,Longmont,CO,CO,Domain value,,Correct,Colorado,Colorado,Domain value,,Correct,US,US,Domain value,,Correct,80501,Correct
+390,Loveland,CO,CO,Domain value,,Correct,Colorado,Colorado,Domain value,,Correct,US,US,Domain value,,Correct,80537,Correct
+391,Parker,CO,CO,Domain value,,Correct,Colorado,Colorado,Domain value,,Correct,US,US,Domain value,,Correct,80138,Correct
+392,Westminster,CO,CO,Domain value,,Correct,Colorado,Colorado,Domain value,,Correct,US,US,Domain value,,Correct,80030,Correct
+393,East Haven,CT,CT,Domain value,,Correct,Connecticut,Connecticut,Domain value,,Correct,US,US,Domain value,,Correct,6512,Correct
+394,Farmington,CT,CT,Domain value,,Correct,Connecticut,Connecticut,Domain value,,Correct,US,US,Domain value,,Correct,6032,Correct
+395,Hamden,CT,CT,Domain value,,Correct,Connecticut,Connecticut,Domain value,,Correct,US,US,Domain value,,Correct,6518,Correct
+396,Milford,CT,CT,Domain value,,Correct,Connecticut,Connecticut,Domain value,,Correct,US,US,Domain value,,Correct,6460,Correct
+397,New Haven,CT,CT,Domain value,,Correct,Connecticut,Connecticut,Domain value,,Correct,US,US,Domain value,,Correct,6510,Correct
+398,Stamford,CT,CT,Domain value,,Correct,Connecticut,Connecticut,Domain value,,Correct,US,US,Domain value,,Correct,6901,Correct
+399,Waterbury,CT,CT,Domain value,,Correct,Connecticut,Connecticut,Domain value,,Correct,US,US,Domain value,,Correct,6710,Correct
+400,Westport,CT,CT,Domain value,,Correct,Connecticut,Connecticut,Domain value,,Correct,US,US,Domain value,,Correct,6880,Correct
+401,Altamonte Springs,FL,FL,Domain value,,Correct,Florida,Florida,Domain value,,Correct,US,US,Domain value,,Correct,32701,Correct
+402,Bradenton,FL,FL,Domain value,,Correct,Florida,Florida,Domain value,,Correct,US,US,Domain value,,Correct,34205,Correct
+403,Clearwater,FL,FL,Domain value,,Correct,Florida,Florida,Domain value,,Correct,US,US,Domain value,,Correct,33755,Correct
+404,Destin,FL,FL,Domain value,,Correct,Florida,Florida,Domain value,,Correct,US,US,Domain value,,Correct,32541,Correct
+405,Hollywood,FL,FL,Domain value,,Correct,Florida,Florida,Domain value,,Correct,US,US,Domain value,,Correct,33021,Correct
+406,Kendall,FL,FL,Domain value,,Correct,Florida,Florida,Domain value,,Correct,US,US,Domain value,,Correct,33143,Correct
+407,Lakeland,FL,FL,Domain value,,Correct,Florida,Florida,Domain value,,Correct,US,US,Domain value,,Correct,33801,Correct
+408,Merritt Island,FL,FL,Domain value,,Correct,Florida,Florida,Domain value,,Correct,US,US,Domain value,,Correct,32952,Correct
+409,Miami,FL,FL,Domain value,,Correct,Florida,Florida,Domain value,,Correct,US,US,Domain value,,Correct,33127,Correct
+410,North Miami Beach,FL,FL,Domain value,,Correct,Florida,Florida,Domain value,,Correct,US,US,Domain value,,Correct,33162,Correct
+411,Orlando,FL,FL,Domain value,,Correct,Florida,Florida,Domain value,,Correct,US,US,Domain value,,Correct,32804,Correct
+412,Sarasota,FL,FL,Domain value,,Correct,Florida,Florida,Domain value,,Correct,US,US,Domain value,,Correct,34236,Correct
+413,Sunrise,FL,FL,Domain value,,Correct,Florida,Florida,Domain value,,Correct,US,US,Domain value,,Correct,33322,Correct
+414,Tampa,FL,FL,Domain value,,Correct,Florida,Florida,Domain value,,Correct,US,US,Domain value,,Correct,33602,Correct
+415,Vero Beach,FL,FL,Domain value,,Correct,Florida,Florida,Domain value,,Correct,US,US,Domain value,,Correct,32960,Correct
+416,Atlanta,GA,GA,Domain value,,Correct,Georgia,Georgia,Domain value,,Correct,US,US,Domain value,,Correct,30308,Correct
+417,Augusta,GA,GA,Domain value,,Correct,Georgia,Georgia,Domain value,,Correct,US,US,Domain value,,Correct,30901,Correct
+418,Austell,GA,GA,Domain value,,Correct,Georgia,Georgia,Domain value,,Correct,US,US,Domain value,,Correct,30106,Correct
+419,Byron,GA,GA,Domain value,,Correct,Georgia,Georgia,Domain value,,Correct,US,US,Domain value,,Correct,31008,Correct
+420,Clarkston,GA,GA,Domain value,,Correct,Georgia,Georgia,Domain value,,Correct,US,US,Domain value,,Correct,30021,Correct
+421,Columbus,GA,GA,Domain value,,Correct,Georgia,Georgia,Domain value,,Correct,US,US,Domain value,,Correct,31901,Correct
+422,Decatur,GA,GA,Domain value,,Correct,Georgia,Georgia,Domain value,,Correct,US,US,Domain value,,Correct,30030,Correct
+423,La Grange,GA,GA,Domain value,,Correct,Georgia,Georgia,Domain value,,Correct,US,US,Domain value,,Correct,30240,Correct
+424,Marietta,GA,GA,Domain value,,Correct,Georgia,Georgia,Domain value,,Correct,US,US,Domain value,,Correct,30060,Correct
+425,Mcdonough,GA,GA,Domain value,,Correct,Georgia,Georgia,Domain value,,Correct,US,US,Domain value,,Correct,30253,Correct
+426,Savannah,GA,GA,Domain value,,Correct,Georgia,Georgia,Domain value,,Correct,US,US,Domain value,,Correct,31401,Correct
+427,Suwanee,GA,GA,Domain value,,Correct,Georgia,Georgia,Domain value,,Correct,US,US,Domain value,,Correct,30024,Correct
+428,Idaho Falls,ID,ID,Domain value,,Correct,Idaho,Idaho,Domain value,,Correct,US,US,Domain value,,Correct,83402,Correct
+429,Lewiston,ID,ID,Domain value,,Correct,Idaho,Idaho,Domain value,,Correct,US,US,Domain value,,Correct,83501,Correct
+430,Sandpoint,ID,ID,Domain value,,Correct,Idaho,Idaho,Domain value,,Correct,US,US,Domain value,,Correct,83864,Correct
+431,Carol Stream,IL,IL,Domain value,,Correct,Illinois,Illinois,Domain value,,Correct,US,US,Domain value,,Correct,60188,Correct
+432,Chicago,IL,IL,Domain value,,Correct,Illinois,Illinois,Domain value,,Correct,US,US,Domain value,,Correct,60610,Correct
+433,Elgin,IL,IL,Domain value,,Correct,Illinois,Illinois,Domain value,,Correct,US,US,Domain value,,Correct,60120,Correct
+434,Joliet,IL,IL,Domain value,,Correct,Illinois,Illinois,Domain value,,Correct,US,US,Domain value,,Correct,60433,Correct
+435,Moline,IL,IL,Domain value,,Correct,Illinois,Illinois,Domain value,,Correct,US,US,Domain value,,Correct,61265,Correct
+436,Norridge,IL,IL,Domain value,,Correct,Illinois,Illinois,Domain value,,Correct,US,US,Domain value,,Correct,60706,Correct
+437,Peoria,IL,IL,Domain value,,Correct,Illinois,Illinois,Domain value,,Correct,US,US,Domain value,,Correct,61606,Correct
+438,Tuscola,IL,IL,Domain value,,Correct,Illinois,Illinois,Domain value,,Correct,US,US,Domain value,,Correct,61953,Correct
+439,West Chicago,IL,IL,Domain value,,Correct,Illinois,Illinois,Domain value,,Correct,US,US,Domain value,,Correct,60185,Correct
+440,Wood Dale,IL,IL,Domain value,,Correct,Illinois,Illinois,Domain value,,Correct,US,US,Domain value,,Correct,60191,Correct
+441,Daleville,IN,IN,Domain value,,Correct,Indiana,Indiana,Domain value,,Correct,US,US,Domain value,,Correct,47334,Correct
+442,Fort Wayne,IN,IN,Domain value,,Correct,Indiana,Indiana,Domain value,,Correct,US,US,Domain value,,Correct,46807,Correct
+443,Indianapolis,IN,IN,Domain value,,Correct,Indiana,Indiana,Domain value,,Correct,US,US,Domain value,,Correct,46204,Correct
+444,Logansport,IN,IN,Domain value,,Correct,Indiana,Indiana,Domain value,,Correct,US,US,Domain value,,Correct,46947,Correct
+445,Michigan City,IN,IN,Domain value,,Correct,Indiana,Indiana,Domain value,,Correct,US,US,Domain value,,Correct,46360,Correct
+446,New Castle,IN,IN,Domain value,,Correct,Indiana,Indiana,Domain value,,Correct,US,US,Domain value,,Correct,47362,Correct
+447,South Bend,IN,IN,Domain value,,Correct,Indiana,Indiana,Domain value,,Correct,US,US,Domain value,,Correct,46601,Correct
+448,Campbellsville,KY,KY,Domain value,,Correct,Kentucky,Kentucky,Domain value,,Correct,US,US,Domain value,,Correct,42718,Correct
+449,Florence,KY,KY,Domain value,,Correct,Kentucky,Kentucky,Domain value,,Correct,US,US,Domain value,,Correct,41042,Correct
+450,Newport,KY,KY,Domain value,,Correct,Kentucky,Kentucky,Domain value,,Correct,US,US,Domain value,,Correct,41071,Correct
+451,Saint Matthews,KY,KY,Domain value,,Correct,Kentucky,Kentucky,Domain value,,Correct,US,US,Domain value,,Correct,40207,Correct
+452,Somerset,KY,KY,Domain value,,Correct,Kentucky,Kentucky,Domain value,,Correct,US,US,Domain value,,Correct,42501,Correct
+453,Braintree,MA,MA,Domain value,,Correct,Massachusetts,Massachusetts,Domain value,,Correct,US,US,Domain value,,Correct,2184,Correct
+454,Norwood,MA,MA,Domain value,,Correct,Massachusetts,Massachusetts,Domain value,,Correct,US,US,Domain value,,Correct,2062,Correct
+455,Randolph,MA,MA,Domain value,,Correct,Massachusetts,Massachusetts,Domain value,,Correct,US,US,Domain value,,Correct,2368,Correct
+456,Saugus,MA,MA,Domain value,,Correct,Massachusetts,Massachusetts,Domain value,,Correct,US,US,Domain value,,Correct,1906,Correct
+457,Wrentham,MA,MA,Domain value,,Correct,Massachusetts,Massachusetts,Domain value,,Correct,US,US,Domain value,,Correct,2093,Correct
+458,Baltimore,MD,MD,Domain value,,Correct,Maryland,Maryland,Domain value,,Correct,US,US,Domain value,,Correct,21201,Correct
+459,Kittery,ME,ME,Domain value,,Correct,Maine,Maine,Domain value,,Correct,US,US,Domain value,,Correct,3904,Correct
+460,Detroit,MI,MI,Domain value,,Correct,Michigan,Michigan,Domain value,,Correct,US,US,Domain value,,Correct,48226,Correct
+461,Holland,MI,MI,Domain value,,Correct,Michigan,Michigan,Domain value,,Correct,US,US,Domain value,,Correct,49423,Correct
+462,Howell,MI,MI,Domain value,,Correct,Michigan,Michigan,Domain value,,Correct,US,US,Domain value,,Correct,48843,Correct
+463,Madison Heights,MI,MI,Domain value,,Correct,Michigan,Michigan,Domain value,,Correct,US,US,Domain value,,Correct,48071,Correct
+464,Midland,MI,MI,Domain value,,Correct,Michigan,Michigan,Domain value,,Correct,US,US,Domain value,,Correct,48640,Correct
+465,Monroe,MI,MI,Domain value,,Correct,Michigan,Michigan,Domain value,,Correct,US,US,Domain value,,Correct,98272,Correct
+466,Novi,MI,MI,Domain value,,Correct,Michigan,Michigan,Domain value,,Correct,US,US,Domain value,,Correct,48375,Correct
+467,Pontiac,MI,MI,Domain value,,Correct,Michigan,Michigan,Domain value,,Correct,US,US,Domain value,,Correct,48342,Correct
+468,Port Huron,MI,MI,Domain value,,Correct,Michigan,Michigan,Domain value,,Correct,US,US,Domain value,,Correct,48060,Correct
+469,Redford,MI,MI,Domain value,,Correct,Michigan,Michigan,Domain value,,Correct,US,US,Domain value,,Correct,48239,Correct
+470,Saginaw,MI,MI,Domain value,,Correct,Michigan,Michigan,Domain value,,Correct,US,US,Domain value,,Correct,48601,Correct
+471,Southfield,MI,MI,Domain value,,Correct,Michigan,Michigan,Domain value,,Correct,US,US,Domain value,,Correct,48034,Correct
+472,Southgate,MI,MI,Domain value,,Correct,Michigan,Michigan,Domain value,,Correct,US,US,Domain value,,Correct,48195,Correct
+473,Westland,MI,MI,Domain value,,Correct,Michigan,Michigan,Domain value,,Correct,US,US,Domain value,,Correct,48185,Correct
+474,Zeeland,MI,MI,Domain value,,Correct,Michigan,Michigan,Domain value,,Correct,US,US,Domain value,,Correct,49464,Correct
+475,Branch,MN,MN,Domain value,,Correct,Minnesota,Minnesota,Domain value,,Correct,US,US,Domain value,,Correct,55056,Correct
+476,Duluth,MN,MN,Domain value,,Correct,Minnesota,Minnesota,Domain value,,Correct,US,US,Domain value,,Correct,55802,Correct
+477,Edina,MN,MN,Domain value,,Correct,Minnesota,Minnesota,Domain value,,Correct,US,US,Domain value,,Correct,55436,Correct
+478,Medford,MN,MN,Domain value,,Correct,Minnesota,Minnesota,Domain value,,Correct,US,US,Domain value,,Correct,55049,Correct
+479,Minneapolis,MN,MN,Domain value,,Correct,Minnesota,Minnesota,Domain value,,Correct,US,US,Domain value,,Correct,55402,Correct
+480,Woodbury,MN,MN,Domain value,,Correct,Minnesota,Minnesota,Domain value,,Correct,US,US,Domain value,,Correct,55125,Correct
+481,Branson,MO,MO,Domain value,,Correct,Missouri,Missouri,Domain value,,Correct,US,US,Domain value,,Correct,65616,Correct
+482,Ferguson,MO,MO,Domain value,,Correct,Missouri,Missouri,Domain value,,Correct,US,US,Domain value,,Correct,63135,Correct
+483,Jefferson City,MO,MO,Domain value,,Correct,Missouri,Missouri,Domain value,,Correct,US,US,Domain value,,Correct,65101,Correct
+484,Kansas City,MO,MO,Domain value,,Correct,Missouri,Missouri,Domain value,,Correct,US,US,Domain value,,Correct,64106,Correct
+485,Odessa,MO,MO,Domain value,,Correct,Missouri,Missouri,Domain value,,Correct,US,US,Domain value,,Correct,64076,Correct
+486,Saint Ann,MO,MO,Domain value,,Correct,Missouri,Missouri,Domain value,,Correct,US,US,Domain value,,Correct,63074,Correct
+487,Saint Louis,MO,MO,Domain value,,Correct,Missouri,Missouri,Domain value,,Correct,US,US,Domain value,,Correct,63103,Correct
+488,Biloxi,MP,MP,New value,,New,Mississippi,Mississippi,Domain value,,Correct,US,US,Domain value,,Correct,39530,New
+489,Gulfport,MS,MS,Domain value,,Correct,Mississippi,Mississippi,Domain value,,Correct,US,US,Domain value,,Correct,39501,Correct
+490,Tupelo,MS,MS,Domain value,,Correct,Mississippi,Mississippi,Domain value,,Correct,US,US,Domain value,,Correct,38804,Correct
+491,Billings,MT,MT,Domain value,,Correct,Montana,Montana,Domain value,,Correct,US,US,Domain value,,Correct,59101,Correct
+492,Great Falls,MT,MT,Domain value,,Correct,Montana,Montana,Domain value,,Correct,US,US,Domain value,,Correct,59401,Correct
+493,Missoula,MT,MT,Domain value,,Correct,Montana,Montana,Domain value,,Correct,US,US,Domain value,,Correct,59801,Correct
+494,Charlotte,NC,NC,Domain value,,Correct,North Carolina,North Carolina,Domain value,,Correct,US,US,Domain value,,Correct,28202,Correct
+495,Greensboro,NC,NC,Domain value,,Correct,North Carolina,North Carolina,Domain value,,Correct,US,US,Domain value,,Correct,27412,Correct
+496,Kannapolis,NC,NC,Domain value,,Correct,North Carolina,North Carolina,Domain value,,Correct,US,US,Domain value,,Correct,28081,Correct
+497,Raleigh,NC,NC,Domain value,,Correct,North Carolina,North Carolina,Domain value,,Correct,US,US,Domain value,,Correct,27603,Correct
+498,Rocky Mount,NC,NC,Domain value,,Correct,North Carolina,North Carolina,Domain value,,Correct,US,US,Domain value,,Correct,27803,Correct
+499,Smithfield,NC,NC,Domain value,,Correct,North Carolina,North Carolina,Domain value,,Correct,US,US,Domain value,,Correct,27577,Correct
+500,Winston-Salem,NC,NC,Domain value,,Correct,North Carolina,North Carolina,Domain value,,Correct,US,US,Domain value,,Correct,27104,Correct
+501,Hooksett,NH,NH,Domain value,,Correct,New Hampshire,New Hampshire,Domain value,,Correct,US,US,Domain value,,Correct,3106,Correct
+502,Nashua,NH,NH,Domain value,,Correct,New Hampshire,New Hampshire,Domain value,,Correct,US,US,Domain value,,Correct,3064,Correct
+503,Plaistow,NH,NH,Domain value,,Correct,New Hampshire,New Hampshire,Domain value,,Correct,US,US,Domain value,,Correct,3865,Correct
+504,Tilton,NH,NH,Domain value,,Correct,New Hampshire,New Hampshire,Domain value,,Correct,US,US,Domain value,,Correct,3276,Correct
+505,Las Cruces,NM,NM,Domain value,,Correct,New Mexico,New Mexico,Domain value,,Correct,US,US,Domain value,,Correct,88001,Correct
+506,Rio Rancho,NM,NM,Domain value,,Correct,New Mexico,New Mexico,Domain value,,Correct,US,US,Domain value,,Correct,87124,Correct
+507,Santa Fe,NM,NM,Domain value,,Correct,New Mexico,New Mexico,Domain value,,Correct,US,US,Domain value,,Correct,87501,Correct
+508,Fernley,NV,NV,Domain value,,Correct,Nevada,Nevada,Domain value,,Correct,US,US,Domain value,,Correct,89408,Correct
+509,Las Vegas,NV,NV,Domain value,,Correct,Nevada,Nevada,Domain value,,Correct,US,US,Domain value,,Correct,89106,Correct
+510,North Las Vegas,NV,NV,Domain value,,Correct,Nevada,Nevada,Domain value,,Correct,US,US,Domain value,,Correct,89030,Correct
+511,Reno,NV,NV,Domain value,,Correct,Nevada,Nevada,Domain value,,Correct,US,US,Domain value,,Correct,89502,Correct
+512,Sparks,NV,NV,Domain value,,Correct,Nevada,Nevada,Domain value,,Correct,US,US,Domain value,,Correct,89431,Correct
+513,Central Valley,NY,NY,Domain value,,Correct,New Yor,New York,DQS cleansing,"0,7368421",Corrected,US,US,Domain value,,Correct,10917,Corrected
+514,Cheektowaga,NY,NY,Domain value,,Correct,New Yo,New York,Modified by user,1,Corrected,US,US,Domain value,,Correct,14227,Corrected
+517,Endicott,NY,NY,Domain value,,Correct,New York,New York,Domain value,,Correct,US,US,Domain value,,Correct,13760,Correct
+518,Ithaca,NY,NY,Domain value,,Correct,New York,New York,Domain value,,Correct,US,US,Domain value,,Correct,14850,Correct
+519,Lake George,NY,NY,Domain value,,Correct,New York,New York,Domain value,,Correct,US,US,Domain value,,Correct,12845,Correct
+520,Melville,NY,NY,Domain value,,Correct,New York,New York,Domain value,,Correct,US,US,Domain value,,Correct,11747,Correct
+521,New Hartford,NY,NY,Domain value,,Correct,New York,New York,Domain value,,Correct,US,US,Domain value,,Correct,13413,Correct
+522,New York,NY,NY,Domain value,,Correct,New York,New York,Domain value,,Correct,US,US,Domain value,,Correct,10007,Correct
+523,Valley Stream,NY,NY,Domain value,,Correct,New York,New York,Domain value,,Correct,US,US,Domain value,,Correct,11580,Correct
+524,Burbank,OH,OH,Domain value,,Correct,Ohio,Ohio,Domain value,,Correct,US,US,Domain value,,Correct,44214,Correct
+525,Cincinnati,OH,OH,Domain value,,Correct,Ohio,Ohio,Domain value,,Correct,US,US,Domain value,,Correct,45202,Correct
+526,Columbus,OH,OH,Domain value,,Correct,Ohio,Ohio,Domain value,,Correct,US,US,Domain value,,Correct,43215,Correct
+527,Euclid,OH,OH,Domain value,,Correct,Ohio,Ohio,Domain value,,Correct,US,US,Domain value,,Correct,44119,Correct
+528,Heath,OH,OH,Domain value,,Correct,Ohio,Ohio,Domain value,,Correct,US,US,Domain value,,Correct,43056,Correct
+529,Holland,OH,OH,Domain value,,Correct,Ohio,Ohio,Domain value,,Correct,US,US,Domain value,,Correct,43528,Correct
+530,Mansfield,OH,OH,Domain value,,Correct,Ohio,Ohio,Domain value,,Correct,US,US,Domain value,,Correct,44903,Correct
+531,Mentor,OH,OH,Domain value,,Correct,Ohio,Ohio,Domain value,,Correct,US,US,Domain value,,Correct,44060,Correct
+532,North Randall,OH,OH,Domain value,,Correct,Ohio,Ohio,Domain value,,Correct,US,US,Domain value,,Correct,44128,Correct
+533,Oberlin,OH,OH,Domain value,,Correct,Ohio,Ohio,Domain value,,Correct,US,US,Domain value,,Correct,44074,Correct
+534,Springdale,OH,OH,Domain value,,Correct,Ohio,Ohio,Domain value,,Correct,US,US,Domain value,,Correct,45246,Correct
+535,Albany,OR,OR,Domain value,,Correct,Oregon,Oregon,Domain value,,Correct,US,US,Domain value,,Correct,97321,Correct
+536,Beaverton,OR,OR,Domain value,,Correct,Oregon,Oregon,Domain value,,Correct,US,US,Domain value,,Correct,97005,Correct
+537,Clackamas,OR,OR,Domain value,,Correct,Oregon,Oregon,Domain value,,Correct,US,US,Domain value,,Correct,97015,Correct
+538,Clackamas,OR,OR,Domain value,,Correct,Oregon,Oregon,Domain value,,Correct,US,US,Domain value,,Correct,,Correct
+539,Corvallis,OR,OR,Domain value,,Correct,Oregon,Oregon,Domain value,,Correct,US,US,Domain value,,Correct,97330,Correct
+540,Hillsboro,OR,OR,Domain value,,Correct,Oregon,Oregon,Domain value,,Correct,US,US,Domain value,,Correct,97123,Correct
+541,Klamath Falls,OR,OR,Domain value,,Correct,Oregon,Oregon,Domain value,,Correct,US,US,Domain value,,Correct,97601,Correct
+542,Lake Oswego,OR,OR,Domain value,,Correct,Oregon,Oregon,Domain value,,Correct,US,US,Domain value,,Correct,97034,Correct
+543,Lebanon,OR,OR,Domain value,,Correct,Oregon,Oregon,Domain value,,Correct,US,US,Domain value,,Correct,97355,Correct
+544,Medford,OR,OR,Domain value,,Correct,Oregon,Oregon,Domain value,,Correct,US,US,Domain value,,Correct,97504,Correct
+545,Milwaukie,OR,OR,Domain value,,Correct,Oregon,Oregon,Domain value,,Correct,US,US,Domain value,,Correct,97222,Correct
+546,Oregon City,OR,OR,Domain value,,Correct,Oregon,Oregon,Domain value,,Correct,US,US,Domain value,,Correct,97045,Correct
+547,Portland,OR,OR,Domain value,,Correct,Oregon,Oregon,Domain value,,Correct,US,US,Domain value,,Correct,97205,Correct
+548,Salem,OR,OR,Domain value,,Correct,Oregon,Oregon,Domain value,,Correct,US,US,Domain value,,Correct,97301,Correct
+549,Springfield,OR,OR,Domain value,,Correct,Oregon,Oregon,Domain value,,Correct,US,US,Domain value,,Correct,97477,Correct
+550,Tigard,OR,OR,Domain value,,Correct,Oregon,Oregon,Domain value,,Correct,US,US,Domain value,,Correct,97223,Correct
+551,Troutdale,OR,OR,Domain value,,Correct,Oregon,Oregon,Domain value,,Correct,US,US,Domain value,,Correct,97060,Correct
+552,W. Linn,OR,OR,Domain value,,Correct,Oregon,Oregon,Domain value,,Correct,US,US,Domain value,,Correct,97068,Correct
+553,Woodburn,OR,OR,Domain value,,Correct,Oregon,Oregon,Domain value,,Correct,US,US,Domain value,,Correct,97071,Correct
+554,Warwick,RI,RI,Domain value,,Correct,Rhode Island,Rhode Island,Domain value,,Correct,US,US,Domain value,,Correct,2889,Correct
+555,West Kingston,RI,RI,Domain value,,Correct,Rhode Island,Rhode Island,Domain value,,Correct,US,US,Domain value,,Correct,2892,Correct
+556,Woonsocket,RI,RI,Domain value,,Correct,Rhode Island,Rhode Island,Domain value,,Correct,US,US,Domain value,,Correct,2895,Correct
+557,Bluffton,SC,SC,Domain value,,Correct,South Carolina,South Carolina,Domain value,,Correct,US,US,Domain value,,Correct,29910,Correct
+558,Gaffney,SC,SC,Domain value,,Correct,South Carolina,South Carolina,Domain value,,Correct,US,US,Domain value,,Correct,29340,Correct
+559,Myrtle Beach,SC,SC,Domain value,,Correct,South Carolina,South Carolina,Domain value,,Correct,US,US,Domain value,,Correct,29577,Correct
+560,Denby,SD,SD,Domain value,,Correct,South Dakota,South Dakota,Domain value,,Correct,US,US,Domain value,,Correct,57716,Correct
+561,North Sioux City,SD,SD,Domain value,,Correct,South Dakota,South Dakota,Domain value,,Correct,US,US,Domain value,,Correct,57049,Correct
+562,Crossville,TN,TN,Domain value,,Correct,Tennessee,Tennessee,Domain value,,Correct,US,US,Domain value,,Correct,38555,Correct
+563,Hixson,TN,TN,Domain value,,Correct,Tennessee,Tennessee,Domain value,,Correct,US,US,Domain value,,Correct,37343,Correct
+564,Kingsport,TN,TN,Domain value,,Correct,Tennessee,Tennessee,Domain value,,Correct,US,US,Domain value,,Correct,37660,Correct
+565,La Vergne,TN,TN,Domain value,,Correct,Tennessee,Tennessee,Domain value,,Correct,US,US,Domain value,,Correct,37086,Correct
+566,Maryville,TN,TN,Domain value,,Correct,Tennessee,Tennessee,Domain value,,Correct,US,US,Domain value,,Correct,37801,Correct
+567,Memphis,TN,TN,Domain value,,Correct,Tennessee,Tennessee,Domain value,,Correct,US,US,Domain value,,Correct,38103,Correct
+568,Millington,TN,TN,Domain value,,Correct,Tennessee,Tennessee,Domain value,,Correct,US,US,Domain value,,Correct,38054,Correct
+569,Nashville,TN,TN,Domain value,,Correct,Tennessee,Tennessee,Domain value,,Correct,US,US,Domain value,,Correct,37203,Correct
+570,Pigeon Forge,TN,TN,Domain value,,Correct,Tennessee,Tennessee,Domain value,,Correct,US,US,Domain value,,Correct,37863,Correct
+571,Arlington,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,76010,Correct
+572,Austin,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,78701,Correct
+573,Baytown,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,77520,Correct
+574,Carrollton,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,75006,Correct
+575,Cedar Park,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,78613,Correct
+576,College Station,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,77840,Correct
+577,Corpus Christi,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,78404,Correct
+578,Dallas,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,75201,Correct
+579,Fort Worth,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,76102,Correct
+580,Garland,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,75040,Correct
+581,Hillsboro,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,76645,Correct
+582,Houston,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,77003,Correct
+583,Humble,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,77338,Correct
+584,Irving,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,75061,Correct
+585,Killeen,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,76541,Correct
+586,La Marque,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,77568,Correct
+587,Laredo,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,78040,Correct
+588,Mesquite,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,75149,Correct
+589,Plano,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,75074,Correct
+590,Round Rock,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,78664,Correct
+591,San Antonio,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,78204,Correct
+592,Stafford,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,77477,Correct
+593,Sugar Land,TX,TX,Domain value,,Correct,Texas,Texas,Domain value,,Correct,US,US,Domain value,,Correct,77478,Correct
+594,Bountiful,UT,UT,Domain value,,Correct,Utah,Utah,Domain value,,Correct,US,US,Domain value,,Correct,84010,Correct
+595,Cedar City,UT,UT,Domain value,,Correct,Utah,Utah,Domain value,,Correct,US,US,Domain value,,Correct,84720,Correct
+596,Ogden,UT,UT,Domain value,,Correct,Utah,Utah,Domain value,,Correct,US,US,Domain value,,Correct,84401,Correct
+597,Park City,UT,UT,Domain value,,Correct,Utah,Utah,Domain value,,Correct,US,US,Domain value,,Correct,84098,Correct
+598,Riverton,UT,UT,Domain value,,Correct,Utah,Utah,Domain value,,Correct,US,US,Domain value,,Correct,84065,Correct
+599,Salt Lake City,UT,UT,Domain value,,Correct,Utah,Utah,Domain value,,Correct,US,US,Domain value,,Correct,84101,Correct
+600,Sandy,UT,UT,Domain value,,Correct,Utah,Utah,Domain value,,Correct,US,US,Domain value,,Correct,84070,Correct
+601,Tooele,UT,UT,Domain value,,Correct,Utah,Utah,Domain value,,Correct,US,US,Domain value,,Correct,84074,Correct
+602,Chantilly,VA,VA,Domain value,,Correct,Virginia,Virginia,Domain value,,Correct,US,US,Domain value,,Correct,20151,Correct
+603,Falls Church,VA,VA,Domain value,,Correct,Virginia,Virginia,Domain value,,Correct,US,US,Domain value,,Correct,22046,Correct
+604,Leesburg,VA,VA,Domain value,,Correct,Virginia,Virginia,Domain value,,Correct,US,US,Domain value,,Correct,20176,Correct
+605,Newport News,VA,VA,Domain value,,Correct,Virginia,Virginia,Domain value,,Correct,US,US,Domain value,,Correct,23607,Correct
+606,Virginia Beach,VA,VA,Domain value,,Correct,Virginia,Virginia,Domain value,,Correct,US,US,Domain value,,Correct,23451,Correct
+607,Ballard,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98107,Correct
+608,Bellevue,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98004,Correct
+609,Bellingham,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98225,Correct
+610,Bothell,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98011,Correct
+611,Bremerton,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98312,Correct
+612,Burien,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98168,Correct
+613,Chehalis,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98532,Correct
+614,Edmonds,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98020,Correct
+615,Ellensburg,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98926,Correct
+616,Everett,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98201,Correct
+617,Federal Way,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98003,Correct
+618,Issaquah,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98027,Correct
+619,Kelso,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98626,Correct
+620,Kenmore,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98028,Correct
+621,Kennewick,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,99337,Correct
+622,Kent,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98031,Correct
+623,Kirkland,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98033,Correct
+624,Lacey,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98503,Correct
+625,Longview,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98632,Correct
+626,Lynnwood,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98036,Correct
+627,Marysville,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98270,Correct
+628,Monroe,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98272,Correct
+629,Newport Hills,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98006,Correct
+630,North Bend,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98045,Correct
+631,Olympia,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98501,Correct
+632,Port Orchard,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98366,Correct
+633,Puyallup,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98371,Correct
+634,Redmond,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98052,Correct
+635,Renton,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98055,Correct
+636,Sammamish,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98074,Correct
+637,Seattle,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98104,Correct
+638,Sedro Woolley,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98284,Correct
+639,Sequim,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98382,Correct
+640,Shelton,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98584,Correct
+641,Spokane,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,99202,Correct
+642,Tacoma,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98403,Correct
+643,Union Gap,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98903,Correct
+644,Walla Walla,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,99362,Correct
+645,Washougal,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98671,Correct
+646,Wenatchee,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98801,Correct
+647,Woodinville,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98072,Correct
+648,Yakima,WA,WA,Domain value,,Correct,Washington,Washington,Domain value,,Correct,US,US,Domain value,,Correct,98901,Correct
+649,Johnson Creek,WI,WI,Domain value,,Correct,Wisconsin,Wisconsin,Domain value,,Correct,US,US,Domain value,,Correct,53038,Correct
+650,Milwaukee,WI,WI,Domain value,,Correct,Wisconsin,Wisconsin,Domain value,,Correct,US,US,Domain value,,Correct,53202,Correct
+651,Mosinee,WI,WI,Domain value,,Correct,Wisconsin,Wisconsin,Domain value,,Correct,US,US,Domain value,,Correct,54455,Correct
+652,Racine,WI,WI,Domain value,,Correct,Wisconsin,Wisconsin,Domain value,,Correct,US,US,Domain value,,Correct,53182,Correct
+653,Casper,WY,WY,Domain value,,Correct,Wyoming,Wyoming,Domain value,,Correct,US,US,Domain value,,Correct,82601,Correct
+654,Cheyenne,WY,WY,Domain value,,Correct,Wyoming,Wyoming,Domain value,,Correct,US,US,Domain value,,Correct,82001,Correct
+655,Rock Springs,WY,WY,Domain value,,Correct,Wyoming,Wyoming,Domain value,,Correct,US,US,Domain value,,Correct,82901,Correct
